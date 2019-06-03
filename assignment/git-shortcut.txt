@@ -1,0 +1,30 @@
+git config --list
+git config --global user.name examplename
+git config --global user.email user@example.com
+$ git help
+$ git init
+git add file
+git status
+git commit .
+git commit -m "commit meesage"
+git log
+git branch name
+git checkout branchname
+git merge branch
+git branch -D branch
+git push
+git pull
+git push --set-upstream origin name
+cat index.html
+
+FOR COMPANY USE
+$ rm -rf .git
+ls -la
+$ git remote -v
+viewing remote branches
+git branch -r
+
+
+To set tracking for a branch in a repo
+git branch --set-upstream-to=origin/benedict_our_plan
+git pull
